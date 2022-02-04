@@ -1,0 +1,122 @@
+.h1 {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    
+}
+
+h3 {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#index-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-top: 100px;
+    height: 200px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 400px;
+    height: 250px;
+}
+
+.indexp {
+    font-size:larger;
+    text-align: center;
+    margin-top: 100px;
+}
+
+p {
+    margin: 5px;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    background-color: rgb(169, 253, 253);
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 3px;
+    text-align: center;
+    
+}
+
+a {
+    color: white;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+
+form {
+    
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.rare-cats-ul {
+    padding: 20px;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 75px
+    
+    
+}
+
+h4 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+tr:nth-child(even){
+    background-color: rgb(194, 194, 194);
+}
+tr:hover {
+    background-color: rgb(100, 100, 255);
+}
